@@ -1,27 +1,3 @@
-<?php
-error_reporting(0);
-
-/* All links find replace to  */
-
-// Change host
-$url = 'https://quickblogz.com/battery/recipe/fog.php';
-
-if (!empty($_GET)) {
-    $url .= '?MPC_1=' . $_GET['campaign'];
-    $url .= '&MPC_2=' . $_GET['campaignid'] . '_' . $_GET['adgroupid'];
-    if (isset($_GET['kw']) && $_GET['matchtype']) {
-        $url .=  '&MPC_3=' . $_GET['creative'] . '_' . $_GET['kw'] . '_' . $_GET['matchtype'] . '_' . $_GET['device'];
-} else {
-        $url .=  '&MPC_3=' . $_GET['creative'] . '_' . $_GET['placement'] . '_' . $_GET['device'];
-    }
-    $url .=  '&MPC_4=' . $_GET['gclid'];
-    $url .=  '&MPC_5=' . $_GET['cid'];
-    $url .=  '&so=' . $_GET['so'];
-
-}
-$base_url = 'https://quickblogz.com/rock/and';
-?>
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -32,7 +8,7 @@ $base_url = 'https://quickblogz.com/rock/and';
     var links = document.getElementsByTagName('a');
     var getParams = window.location.search.substr(1); // Get url params with removed '?' at the beginning of the string
     for (var i = 0; i < links.length; i++) {
-      links[i].href = 'https://visit.philitzes.com/VKR99QJr?' + getParams
+      links[i].href = 'http://visit.bliselevial.com/bPsqdSWM?' + getParams
     }
   });
 </script>
