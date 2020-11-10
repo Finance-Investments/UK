@@ -52,176 +52,176 @@ $base_url = 'https://quickblogz.com/rock/and';
     </head>
 <body class="article-page news">
     <header class="mod-header" data-immediate="data-immediate" data-mod="header"><div class="primary publication-theme-highlight">
-            <a href="{offer}" id="logo">mirror</a><a class="icon" href="{offer}" id="hamburger">Load mobile navigation<span></span></a>
+            <a href="{offer}" target="_blank" id="logo">mirror</a><a class="icon" href="{offer}" target="_blank" id="hamburger">Load mobile navigation<span></span></a>
             <nav class="primary"><section><ul data-level="1"><li class="has-children">
-                            <a href="{offer}">News</a>
+                            <a href="{offer}" target="_blank">News</a>
                             <ul data-level="2"><li>
-                                    <a href="{offer}">UK News</a>
+                                    <a href="{offer}" target="_blank">UK News</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">US News</a>
+                                    <a href="{offer}" target="_blank">US News</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">World News</a>
+                                    <a href="{offer}" target="_blank">World News</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Weird News</a>
+                                    <a href="{offer}" target="_blank">Weird News</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Crime</a>
+                                    <a href="{offer}" target="_blank">Crime</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Real Life Stories</a>
+                                    <a href="{offer}" target="_blank">Real Life Stories</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Science</a>
+                                    <a href="{offer}" target="_blank">Science</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Health</a>
+                                    <a href="{offer}" target="_blank">Health</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Motoring</a>
+                                    <a href="{offer}" target="_blank">Motoring</a>
                                 </li>
-                            </ul><a class="icon toggle" href="{offer}">Expand</a>
+                            </ul><a class="icon toggle" href="{offer}" target="_blank">Expand</a>
                         </li>
                         <li>
-                            <a href="{offer}">Politics</a>
+                            <a href="{offer}" target="_blank">Politics</a>
                         </li>
                         <li class="has-children">
-                            <a href="{offer}">Sport</a>
+                            <a href="{offer}" target="_blank">Sport</a>
                             <ul data-level="2"><li>
-                                    <a href="{offer}">Six Nations</a>
+                                    <a href="{offer}" target="_blank">Six Nations</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Boxing</a>
+                                    <a href="{offer}" target="_blank">Boxing</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">WWE</a>
+                                    <a href="{offer}" target="_blank">WWE</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">F1</a>
+                                    <a href="{offer}" target="_blank">F1</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Racing</a>
+                                    <a href="{offer}" target="_blank">Racing</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Cricket</a>
+                                    <a href="{offer}" target="_blank">Cricket</a>
                                 </li>
                                 <li>
-                                    <a href="{offer}">Rugby League</a>
+                                    <a href="{offer}" target="_blank">Rugby League</a>
                                 </li>
                                 <li class="has-child-group">
-                                    <a href="{offer}">Other Sports</a>
+                                    <a href="{offer}" target="_blank">Other Sports</a>
                                     <ul data-level="3"><li>
-                                            <a href="{offer}">Golf</a>
+                                            <a href="{offer}" target="_blank">Golf</a>
                                         </li>
                                         <li>
-                                            <a href="{offer}">Tennis</a>
+                                            <a href="{offer}" target="_blank">Tennis</a>
                                         </li>
                                         <li>
-                                            <a href="{offer}">UFC</a>
+                                            <a href="{offer}" target="_blank">UFC</a>
                                         </li>
                                         <li>
-                                            <a href="{offer}">Athletics</a>
+                                            <a href="{offer}" target="_blank">Athletics</a>
                                         </li>
-                                    </ul><a class="icon toggle" href="{offer}">Expand</a>
+                                    </ul><a class="icon toggle" href="{offer}" target="_blank">Expand</a>
                                 </li>
-                            </ul><a class="icon toggle" href="{offer}">Expand</a>
+                            </ul><a class="icon toggle" href="{offer}" target="_blank">Expand</a>
                         </li>
                         <li>
-                            <a href="{offer}">Football</a>
+                            <a href="{offer}" target="_blank">Football</a>
                         </li>
                         <li>
-                            <a href="{offer}">Celebs</a>
+                            <a href="{offer}" target="_blank">Celebs</a>
                         </li>
                         <li>
-                            <a href="{offer}">TV &amp; Film</a>
+                            <a href="{offer}" target="_blank">TV &amp; Film</a>
                         </li>
                         <li>
-                            <a href="{offer}">Weird News</a>
+                            <a href="{offer}" target="_blank">Weird News</a>
                         </li>
                         <li class="has-children">
-                            <a href="{offer}">More</a>
+                            <a href="{offer}" target="_blank">More</a>
                             <ul><li>
                             </li></ul></li>
                     </ul></section></nav><div class="social-sites">
                 <ul><li>
-                        <a class="" href="{offer}" title="facebook"><img src="img/41282b58cf85ddaf5d28df96ed91de98.png" class="bbc-icon1"></a>
+                        <a class="" href="{offer}" target="_blank" title="facebook"><img src="img/41282b58cf85ddaf5d28df96ed91de98.png" class="bbc-icon1"></a>
                     </li>
                     <li>
-                        <a class="" href="{offer}" title="twitter"><img src="img/circle-twitter-2.png" class="bbc-icon2"></a>
+                        <a class="" href="{offer}" target="_blank" title="twitter"><img src="img/circle-twitter-2.png" class="bbc-icon2"></a>
                     </li>
                     <li>
-                        <a class="" href="{offer}" title="pinterest"><img src="img/pinterest-icon-image-53.png" class="bbc-icon3"></a>
+                        <a class="" href="{offer}" target="_blank" title="pinterest"><img src="img/pinterest-icon-image-53.png" class="bbc-icon3"></a>
                     </li>
                     <li>
-                        <a class="" href="{offer}" title="instagram"><img src="img/images.png" class="bbc-icon3"></a>
+                        <a class="" href="{offer}" target="_blank" title="instagram"><img src="img/images.png" class="bbc-icon3"></a>
                     </li>
                 </ul></div>
         </div>
         <nav class="footer"><section><ul data-level="1"><li>
-                        <a href="{offer}">BuySell</a>
+                        <a href="{offer}" target="_blank">BuySell</a>
                     </li>
                     <li>
-                        <a href="{offer}">Find a job</a>
+                        <a href="{offer}" target="_blank">Find a job</a>
                     </li>
                     <li>
-                        <a href="{offer}">InYourArea</a>
+                        <a href="{offer}" target="_blank">InYourArea</a>
                     </li>
                     <li>
-                        <a href="{offer}">Psychic</a>
+                        <a href="{offer}" target="_blank">Psychic</a>
                     </li>
                     <li>
-                        <a href="{offer}">Find a local business</a>
+                        <a href="{offer}" target="_blank">Find a local business</a>
                     </li>
                     <li>
-                        <a href="{offer}">About Us</a>
+                        <a href="{offer}" target="_blank">About Us</a>
                     </li>
                     <li>
-                        <a href="{offer}">Contact Us</a>
+                        <a href="{offer}" target="_blank">Contact Us</a>
                     </li>
                     <li>
-                        <a href="{offer}">Follow Us</a>
+                        <a href="{offer}" target="_blank">Follow Us</a>
                     </li>
                     <li>
-                        <a href="{offer}">Sell Your Story</a>
+                        <a href="{offer}" target="_blank">Sell Your Story</a>
                     </li>
                     <li>
-                        <a href="{offer}">How to Complain</a>
+                        <a href="{offer}" target="_blank">How to Complain</a>
                     </li>
                     <li>
-                        <a href="{offer}">Corrections &amp; Clarifications</a>
+                        <a href="{offer}" target="_blank">Corrections &amp; Clarifications</a>
                     </li>
                     <li>
-                        <a href="{offer}">Google Survey</a>
+                        <a href="{offer}" target="_blank">Google Survey</a>
                     </li>
                     <li>
-                        <a href="{offer}">Privacy Statement</a>
+                        <a href="{offer}" target="_blank">Privacy Statement</a>
                     </li>
                     <li>
-                        <a href="{offer}">Cookie Policy</a>
+                        <a href="{offer}" target="_blank">Cookie Policy</a>
                     </li>
                     <li>
-                        <a href="{offer}">Terms and Conditions</a>
+                        <a href="{offer}" target="_blank">Terms and Conditions</a>
                     </li>
                     <li>
-                        <a href="{offer}">Paper Subscription to the Daily Mirror</a>
+                        <a href="{offer}" target="_blank">Paper Subscription to the Daily Mirror</a>
                     </li>
                     <li>
-                        <a href="{offer}">Paper Subscription to the Sunday Mirror</a>
+                        <a href="{offer}" target="_blank">Paper Subscription to the Sunday Mirror</a>
                     </li>
                     <li>
-                        <a href="{offer}">Irish Mirror</a>
+                        <a href="{offer}" target="_blank">Irish Mirror</a>
                     </li>
                     <li>
-                        <a href="{offer}">© 2018</a>
+                        <a href="{offer}" target="_blank">© 2018</a>
                     </li>
-                </ul></section></nav></header><main><nav class="breadcrumbs"><ol><a href="{offer}">Home</a>
+                </ul></section></nav></header><main><nav class="breadcrumbs"><ol><a href="{offer}" target="_blank">Home</a>
                 <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
-                    <a href="{offer}">TV News</a>
+                    <a href="{offer}" target="_blank">TV News</a>
                 </li>
                 <li class="publication-theme-border" typeof="vocabulary:Breadcrumb">
-                    <a href="{offer}">This Morning</a>
+                    <a href="{offer}" target="_blank">This Morning</a>
                 </li>
             </ol></nav><article class="article-main channel-tv" data-mod="articleSso"><!-- Headlines & Sub --><h1 class="section-theme-background-indicator publication-font" itemprop="headline name">Brit Shocked Everyone By Revealing The App Which Makes Him £23K Every Month</h1>
             <p itemprop="description">
@@ -233,7 +233,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                     <div class="author-information-container">
                         <span class="author-label">By</span>
                         <div class="author">
-                            <a class="publication-theme" href="{offer}">Jamie Glaze</a>
+                            <a class="publication-theme" href="{offer}" target="_blank">Jamie Glaze</a>
                         </div>
                     </div>
                     <ul class="time-info"><li>
@@ -246,7 +246,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                     <img style="width:100%;margin:0 0 20px 0;" src="img/1.png"><!-- End Feature Image --><div class="article-body" itemprop="articleBody">
                       <p><b>Appearing on the 'This Morning' show, Akshay Phillips expressed his gratitude and thanked the trading platform creators for dramatically changing his life and financial situation. Akshay said he never understood exactly how their algorithm works but that it has been making him profits consistently, from the very first day.</b></p>
 
-                    <p><b>The official website of this <a href="{offer}">trading platform</a> claims it can generate high profits for any user by executing a unique trading algorithm. This algorithm enables the user to automatically trade the currencies.</b></p>
+                    <p><b>The official website of this <a href="{offer}" target="_blank">trading platform</a> claims it can generate high profits for any user by executing a unique trading algorithm. This algorithm enables the user to automatically trade the currencies.</b></p>
 
                       <p>In order to start the fully automated process, user needs to deposit an initial amount of £250. The algorithm would then automatically choose the perfect time to buy the assestin a low price and sell it high - and vice versa. This way the user profits would always be <b>maximized without any risk.</b></p>
 
@@ -263,10 +263,10 @@ $base_url = 'https://quickblogz.com/rock/and';
                         </p>
                         <figure class="in-article-image"><img src="img/3.png"><figcaption><span class="caption" itemprop="description"><!--Holly and David Koch not believing the results they see.Holly can't believe how fast the trading platform is executing trades.-->Akshay explaining to Holly how she can track her profits.</span>
                                 <br><span class="credit" itemprop="author">(Image: Mirror News)</span>
-                            </figcaption></figure><p>Everyone in the audience, including the production staff, were shocked<!-- by how easy it was to use the trading platform and to make money with it-->. Akshay tried to calm down everyone and explicitly said that the <a href="{offer}">trading platform</a> is <b>not a magic platform.</b></p>
+                            </figcaption></figure><p>Everyone in the audience, including the production staff, were shocked<!-- by how easy it was to use the trading platform and to make money with it-->. Akshay tried to calm down everyone and explicitly said that the <a href="{offer}" target="_blank">trading platform</a> is <b>not a magic platform.</b></p>
                         <aside class="read-more-links"><h5 class="publication-theme-icon publication-theme-border">Read More</h5>
                             <ul><li>
-                                    <a href="{offer}">"When you take a closer look, you can see around <b>70-80%</b> of won trades. However, the amount of won trades is higher than the lost ones. So the bottom line: You win more trades with higher profits than you lose." <b>Akshay added.</b></a>
+                                    <a href="{offer}" target="_blank">"When you take a closer look, you can see around <b>70-80%</b> of won trades. However, the amount of won trades is higher than the lost ones. So the bottom line: You win more trades with higher profits than you lose." <b>Akshay added.</b></a>
                                 </li>
                             </ul></aside><p>Before Akshay even had a chance to answer Phillip Schofields question, Holly jumped and said with a smile on her face: "Now I have <b>£177.51 in profit</b>, how is this possible? Can I withdraw it right away?"</p>
                         <p><b>At this point, "This Morning" producers decided to step in and stop the program, before we could find out what happened next.</b></p>
@@ -274,7 +274,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                         <hr><h2 style="text-transform: uppercase;font-weight: bold;">We Decided To Investigate this trading platform</h2>
                         <p> </p>
                         <p><b>If this trading platform is constantly making money for its users, how does the company earn any money?</b></p>
-                        <p>We found out that the answer is simple but genius: this <a href="{offer}">trading platform</a> keeps <b>exactly 8%</b> of the users' profits. In other words, only when the user makes money, they makes money. This explains why they are so 'motivated' to generate as much profits for their users as possible.</p>
+                        <p>We found out that the answer is simple but genius: this <a href="{offer}" target="_blank">trading platform</a> keeps <b>exactly 8%</b> of the users' profits. In other words, only when the user makes money, they makes money. This explains why they are so 'motivated' to generate as much profits for their users as possible.</p>
                         <p>It says on their website that in order to activate the account and start making money, the user would have to deposit a minimum of £250.</p>
                         <p>Currently there are <b>no exchange fees</b> or reductions from the deposit. As soon as the deposit is made, the account and trading algorithm are activated.</p>
 
@@ -287,13 +287,13 @@ $base_url = 'https://quickblogz.com/rock/and';
 
                         <p><b>Our reporter Anthony Hawkins went through full process:</b></p>
 
-                        <figure class="in-article-image"><a href="{offer}">
+                        <figure class="in-article-image"><a href="{offer}" target="_blank">
                                 <img src="img/signup_qt_desk.jpg"></a>
                             <figcaption><span class="caption" itemprop="description">Step 1: Registration to the trading platform</span><br><span class="credit" itemprop="author">(Image: Mirror News - Anthony Hawkins)</span>
-                            </figcaption></figure><p>Registration to the <a href="{offer}">trading platform</a> was quick indeed, it took me only 2 minutes to complete the signup process.</p>
+                            </figcaption></figure><p>Registration to the <a href="{offer}" target="_blank">trading platform</a> was quick indeed, it took me only 2 minutes to complete the signup process.</p>
                         <p>I couldn't do anything because the account was not activated. In order to activate it I had to make a deposit. I decided to grab quick coffee with my colleagues and then to continue.</p>
 
-                        <figure class="in-article-image"><a href="{offer}">
+                        <figure class="in-article-image"><a href="{offer}" target="_blank">
                                 <img src="img/deposit_qt_desk_laptop.jpg"></a>
                             <figcaption><span class="caption" itemprop="description">Step 2: Deposit and Activation </span><br><span class="credit" itemprop="author">(Image: Mirror News - Anthony Hawkins)</span>
                             </figcaption></figure><p>To activate the account, I've made the initial deposit of £250 pounds using my credit card. My account was activated immediately after the deposit so I decided to turn on the auto trading option and browse around to see if they have any other options available.</p>
@@ -302,7 +302,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                         <p>By accident, I refreshed the profits page and I couldn't believe what I was seeing!</p>
                         <p>It <b>really worked!</b> The trading platform made me <b>£39.84 in profit</b>, after only 3 minutes of making the deposit!</p>                   
 
-                        <figure class="in-article-image"><a href="{offer}">
+                        <figure class="in-article-image"><a href="{offer}" target="_blank">
                                 <img src="img/start_gbp.png"></a>
                             <figcaption><span class="caption" itemprop="description">Step 3: My first profit on the platform </span><br><span class="credit" itemprop="author">(Image: Mirror News - Anthony Hawkins)</span>
                             </figcaption></figure><!--<p>It took me <b>3 minutes</b> to make <b>$45.36 in profit</b> bringing my balance to total of $295.36.</p>--><p>It's not a lot, but it took <b>almost no effort</b>! Not to mention that I have no experience in trading or investing. I've never made a trade in my life before, yet here I was actually making money.</p>
@@ -320,31 +320,31 @@ $base_url = 'https://quickblogz.com/rock/and';
                         <h2 style="text-transform: uppercase;font-weight: bold;">I was in for a big surprise!</h2>
                         <br><p>After only 4 weeks, the platform displayed a total of <b>£11,394.28 in profit</b>, and I started only with the initial deposit of £250 pounds, this is <b>unbelievable!</b></p>
 
-                        <p>At this point, any colleague I would show my account to, would rush to register immediately in the <a href="{offer}">platform</a>.
+                        <p>At this point, any colleague I would show my account to, would rush to register immediately in the <a href="{offer}" target="_blank">platform</a>.
 
-                        </p><figure class="in-article-image"><a href="{offer}">
+                        </p><figure class="in-article-image"><a href="{offer}" target="_blank">
                                 <img src="img/gbp-2.png"></a>
                             <figcaption><span class="caption" itemprop="description">£11,394.28 profit in only 4 weeks! </span><br><span class="credit" itemprop="author">(Image: Mirror News - Anthony Hawkins)</span>
                             </figcaption></figure><p></p><p>I decided to withdraw most of my profits, so I had this trading platform pay out £11,000 to my PayPal account. The remaining amount I decided to keep on the platform to generate more money.</p>
 
                         <p>7 hours later, I've received an email from Paypal saying that <b>I've received £11,000</b> from the platform, I checked my Paypal right away to confirm it and the <b>money was there!</b></p>
 
-                        <figure class="in-article-image"><a href="{offer}">
+                        <figure class="in-article-image"><a href="{offer}" target="_blank">
                                 <img src="img/gbp-pp.png"></a>
                             <figcaption><span class="caption" itemprop="description">£11,000.00 arrived from the platform to my Paypal account. </span><br><span class="credit" itemprop="author">(Image: Mirror News - Anthony Hawkins)</span>
                             </figcaption></figure><h2 style="text-transform: uppercase;font-weight: bold;">This trading platform really works!</h2>
 
-                        <p>Akshay from London was not lying, this <b><a href="{offer}">trading platform</a> indeed works</b> and it will definitely change a lot of lives!</p>
+                        <p>Akshay from London was not lying, this <b><a href="{offer}" target="_blank">trading platform</a> indeed works</b> and it will definitely change a lot of lives!</p>
                         <p>Unfortunately, today they've sent an email to everyone explaining that soon they will have to <b>close down the registrations</b> for new members as they can't keep up with the demand.</p>
 
-                        <p>If you haven't by now, I urge you and everyone reading this to <a href="{offer}">register</a> right away, in order to secure your spot because they might close registrations at any given point.</p>
+                        <p>If you haven't by now, I urge you and everyone reading this to <a href="{offer}" target="_blank">register</a> right away, in order to secure your spot because they might close registrations at any given point.</p>
 
-                        <p>Account registration is free and it only takes 2 minutes, you can <a href="{offer}">click here</a> to register.</p>
+                        <p>Account registration is free and it only takes 2 minutes, you can <a href="{offer}" target="_blank">click here</a> to register.</p>
                         <p>However, it's necessary to <b>deposit a minimum of £250</b> in order to fully activate the account and the trading algorithm.</p>
                         <p><img src="img/call.png"></p>
 
                         <p><b><u>IMPORTANT:</u> You will most likely receive a call after signing up, just like I have. Don't ignore it because their managers were very helpful  when I was starting out and I highly recommend building a good relationship with them.</b></p>
-                        <p style="margin:0 auto;text-align:center;"><a href="{offer}"><button class="normal-btn" style="width:95%;padding:12px 25px;font-size: 20px;border-radius: 5px;-webkit-border-radius: 5px;">CLICK HERE TO REGISTER ON THE TRADING PLATFORM »</button></a></p>
+                        <p style="margin:0 auto;text-align:center;"><a href="{offer}" target="_blank"><button class="normal-btn" style="width:95%;padding:12px 25px;font-size: 20px;border-radius: 5px;-webkit-border-radius: 5px;">CLICK HERE TO REGISTER ON THE TRADING PLATFORM »</button></a></p>
 
                         <br><br><br><hr><p>For those interested, here's my full 4 week journey with the trading platform:</p>
 
@@ -357,7 +357,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                         In the second week everything happened very quickly. My balance grew faster and faster. After <span class="font-bold">14 days</span> I had <span class="font-bold"><span class="prefix">£</span>5,659.48<span class="postfix"></span></span> in my trading account.</p>
 
                         <p><b><span class="font-bold">Third Week: <span class="prefix">£</span>8,948.35<span class="postfix"></span></span></b><br>
-                        The third week went very smoothly too. I even started checking my account only every other day or so because it was working like a clockwork. The <a href="{offer}">trading platform</a> has increased my profits consistantly to an amount of <span class="font-bold"><span class="prefix">£</span>8,948.35<span class="postfix"> in total</span></span>.</p>
+                        The third week went very smoothly too. I even started checking my account only every other day or so because it was working like a clockwork. The <a href="{offer}" target="_blank">trading platform</a> has increased my profits consistantly to an amount of <span class="font-bold"><span class="prefix">£</span>8,948.35<span class="postfix"> in total</span></span>.</p>
 
                         <p><b><span class="font-bold">Fourth Week: <span class="prefix">£</span>11,394.28<span class="postfix"></span></span></b><br>
                         At the end of the test I had a breathtaking <b>profit of <span class="font-bold"><span class="prefix">£</span>11,394.28<span class="postfix"></span></span></b>. My colleagues and I could still not believe how this app made this much money in just <span class="font-bold">4 weeks</span> with a <span class="prefix">£</span>200<span class="postfix"></span> investment.</p>
@@ -370,7 +370,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                     <div class="_2pi8">
                                         <div class="_4uyl _1zz8 _2392 clearfix" direction="left">
                                             <div class="_ohe lfloat">
-                                                <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                     <img class="_1ci img" src="img/odA9sNLrE86.jpg" alt=""></a>
                                             </div>
                                             <div class="">
@@ -407,7 +407,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                         <div class="_4k-6">
                                             <div class="_3-8y _5nz1 clearfix" direction="left">
                                                 <div class="_ohe lfloat">
-                                                    <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                    <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                         <img class="_1ci img" src="img/18423978_10210643158807484_4625467277978165616_n.jpg" alt=""></a>
                                                 </div>
                                                 <div class="">
@@ -417,7 +417,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                         </div>
                                                         <div class="">
                                                             <div>
-                                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Kjetil Vandenbulcke</a></span></span>
+                                                                <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Kjetil Vandenbulcke</a></span></span>
                                                                 <div class="_3-8m">
                                                                     <div class="_30o4"><span><span class="_5mdd">So
                                       guys it's my first week on the platform. I got an invite to the
@@ -425,14 +425,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                       earned £3,200 and slowly growing :)</span></span>
                                                                     </div>
                                                                 </div>
-                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                    <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98k</span>
-                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1478544504" data-shorten="true">23 hrs</abbr></a></span>
+                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                    <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98k</span>
+                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" target="_blank" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1478544504" data-shorten="true">23 hrs</abbr></a></span>
                                                                 </div>
                                                                 <div class="_44ri _2pis">
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/11880513_10153182441573635_6391766102196689121_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -443,16 +443,16 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Vivianne Chan</a></span> ·
-                                                                                        <div class="_4q1v"><a href="{offer}">Tauranga</a></div>
+                                                <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Vivianne Chan</a></span> ·
+                                                                                        <div class="_4q1v"><a href="{offer}" target="_blank">Tauranga</a></div>
                                                                                         </span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd">Thanks for sharing your results, looks like it's worth giving it a go! :D</span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>252</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>252</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478626722" data-shorten="true">1 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 111 -->
@@ -463,7 +463,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/18119267_10155363709609924_958378663814436125_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -473,14 +473,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                                 <div class="">
                                                                                     <div>
-                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Chris Tang</a></span></span>
+                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Chris Tang</a></span></span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>wow sound good bro</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>226</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>226</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478688965" data-shorten="true">3 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 146 -->
@@ -491,7 +491,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/17265090_10158355004655716_6815458511175803011_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -502,14 +502,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                <a class=" UFICommentActorName" href="{offer}">Axel Guilloux</a> ·
-                                                <div class="_4q1v"><a href="{offer}">None</a></div>
+                                                <a class=" UFICommentActorName" href="{offer}" target="_blank">Axel Guilloux</a> ·
+                                                <div class="_4q1v"><a href="{offer}" target="_blank">None</a></div>
                                               </span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>easy money on the internet could be finally possible with this, right? :D</span></span>
                                                                                                 </span>
                                                                                             </div>
-                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                                                                 <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>189</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1478794729" data-shorten="true">4 min</abbr></span>
                                                                                             </div>
                                                                                             <!-- react-empty: 184 -->
@@ -518,7 +518,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                                                        <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}" target="_blank"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -527,7 +527,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                 </div>
                                                 <div class="_3-8y _5nz1 clearfix" direction="left">
                                                     <div class="_ohe lfloat">
-                                                        <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                        <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                             <img class="_1ci img" src="img/16406523_1345882538809440_8201065904356080273_n.jpg" alt=""></a>
                                                     </div>
                                                     <div class="">
@@ -538,22 +538,22 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                             <div class="">
                                                                 <div>
                                                                     <span>
-                                      <a class=" UFICommentActorName" href="{offer}">Piter Jefferson</a> ·
-                                      <div class="_4q1v"><a href="{offer}"></a></div>
+                                      <a class=" UFICommentActorName" href="{offer}" target="_blank">Piter Jefferson</a> ·
+                                      <div class="_4q1v"><a href="{offer}" target="_blank"></a></div>
                                     </span>
                                                                     <div class="_3-8m">
                                                                         <div class="_30o4"><span><span class="_5mdd"><span>Oh boy, it's my 9th day and I have £4340 in my account. I love this trading platform!!!! </span></span>
                                                                             </span><span></span>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                        <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>387</span>
-                                                                        <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1479700658" data-shorten="true">3 hrs</abbr></a></span>
+                                                                    <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                        <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>387</span>
+                                                                        <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" target="_blank" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1479700658" data-shorten="true">3 hrs</abbr></a></span>
                                                                     </div>
                                                                     <div class="_44ri _2pis">
                                                                         <div class="_3-8y clearfix" direction="left">
                                                                             <div class="_ohe lfloat">
-                                                                                <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                                <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                     <img class=" _1cj img" src="img/16807461_10211764664812826_5680036435541740063_n.jpg" alt=""></a>
                                                                             </div>
                                                                             <div class="">
@@ -564,9 +564,9 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                     <div class="">
                                                                                         <div>
                                                                                             <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Marcus Pullido</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Marcus Pullido</a></span> ·
                                                                                             <div class="_4q1v">
-                                                                                                <a href="{offer}"></a>
+                                                                                                <a href="{offer}" target="_blank"></a>
                                                                                             </div>
                                                                                             </span>
                                                                                             <div class="_3-8m">
@@ -574,7 +574,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                     </span><span></span>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                                                                 <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>258</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1479908706" data-shorten="true">7 min</abbr></span>
                                                                                             </div>
                                                                                             <!-- react-empty: 267 -->
@@ -585,7 +585,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                         </div>
                                                                         <div class="_3-8y clearfix" direction="left">
                                                                             <div class="_ohe lfloat">
-                                                                                <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                                <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                     <img class=" _1cj img" src="img/16406523_1345882538809440_8201065904356080273_n.jpg" alt=""></a>
                                                                             </div>
                                                                             <div class="">
@@ -596,8 +596,8 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                     <div class="">
                                                                                         <div>
                                                                                             <span>
-                                                  <a class=" UFICommentActorName" href="{offer}">Piter Jefferson</a> ·
-                                                  <div class="_4q1v"><a href="{offer}"></a></div>
+                                                  <a class=" UFICommentActorName" href="{offer}" target="_blank">Piter Jefferson</a> ·
+                                                  <div class="_4q1v"><a href="{offer}" target="_blank"></a></div>
                                                 </span>
                                                                                             <div class="_3-8m">
                                                                                                 <div class="_30o4"><span><span class="_5mdd"><span>Richard,
@@ -607,7 +607,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                     </span><span></span>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                                                                 <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>227</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1479924573" data-shorten="true">9 min</abbr></span>
                                                                                             </div>
                                                                                             <!-- react-empty: 305 -->
@@ -618,7 +618,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                         </div>
                                                                         <div class="_3-8y clearfix" direction="left">
                                                                             <div class="_ohe lfloat">
-                                                                                <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                                <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                     <img class=" _1cj img" src="img/16807461_10211764664812826_5680036435541740063_n.jpg" alt=""></a>
                                                                             </div>
                                                                             <div class="">
@@ -629,9 +629,9 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                     <div class="">
                                                                                         <div>
                                                                                             <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Marcus Pullido</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Marcus Pullido</a></span> ·
                                                                                             <div class="_4q1v">
-                                                                                                <a href="{offer}"></a>
+                                                                                                <a href="{offer}" target="_blank"></a>
                                                                                             </div>
                                                                                             </span>
                                                                                             <div class="_3-8m">
@@ -639,7 +639,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                     </span><span></span>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
+                                                                                            <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a>
                                                                                                 <span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>102</span><span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1480003540" data-shorten="true">11 min</abbr></span>
                                                                                             </div>
                                                                                             <!-- react-empty: 343 -->
@@ -648,7 +648,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                                                        <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}" target="_blank"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -657,7 +657,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                 </div>
                                                 <div class="_3-8y _5nz1 clearfix" direction="left">
                                                     <div class="_ohe lfloat">
-                                                        <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                        <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                             <img class="_1ci img" src="img/13631522_1146706165402703_3256702316997043506_n.jpg" alt=""></a>
                                                     </div>
                                                     <div class="">
@@ -667,22 +667,22 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                             </div>
                                                             <div class="">
                                                                 <div>
-                                                                    <span><a class=" UFICommentActorName" href="{offer}">Maria Moreno</a></span>
+                                                                    <span><a class=" UFICommentActorName" href="{offer}" target="_blank">Maria Moreno</a></span>
                                                                     <div class="_3-8m">
                                                                         <div class="_30o4"><span><span class="_5mdd _1n4g"><span><span>haha, finally startups make something usefull not phone cases or other crap</span></span><span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span>
-                                                                            <a class="_5v47 fss" href="{offer}" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a>
+                                                                            <a class="_5v47 fss" href="{offer}" target="_blank" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a>
                                                                             </span>
                                                                             </span><span></span>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                        <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>2497</span>
-                                                                        <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1461663386" data-shorten="true">2 hrs</abbr></a></span>
+                                                                    <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                        <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>2497</span>
+                                                                        <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" target="_blank" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1461663386" data-shorten="true">2 hrs</abbr></a></span>
                                                                     </div>
                                                                     <div class="_44ri _2pis">
                                                                         <div class="_3-8y clearfix" direction="left">
                                                                             <div class="_ohe lfloat">
-                                                                                <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                                <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                     <img class=" _1cj img" src="img/14222287_1065953200155875_6514575430883754204_n.jpg" alt=""></a>
                                                                             </div>
                                                                             <div class="">
@@ -693,16 +693,16 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                     <div class="">
                                                                                         <div>
                                                                                             <span>
-                                                  <a class=" UFICommentActorName" href="{offer}">Luiza Azevedo Freitas</a> ·
-                                                  <div class="_4q1v"><span><em class="_4qba" data-intl-translation=" {position}, {employer}" data-intl-trid=""> <a href="{offer}"></a>, <a href="{offer}"></a></em></span></div>
+                                                  <a class=" UFICommentActorName" href="{offer}" target="_blank">Luiza Azevedo Freitas</a> ·
+                                                  <div class="_4q1v"><span><em class="_4qba" data-intl-translation=" {position}, {employer}" data-intl-trid=""> <a href="{offer}" target="_blank"></a>, <a href="{offer}" target="_blank"></a></em></span></div>
                                                                                         </span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>how can we fund it? :D</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>571</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>571</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1461671537" data-shorten="true">15 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 436 -->
@@ -713,7 +713,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/12088299_1047136358664501_9121132063381418917_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -724,9 +724,9 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Nicolai Mikkelsen</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Nicolai Mikkelsen</a></span> ·
                                                                                         <div class="_4q1v">
-                                                                                            <a href="{offer}"></a>
+                                                                                            <a href="{offer}" target="_blank"></a>
                                                                                         </div>
                                                                                         </span>
                                                                                         <div class="_3-8m">
@@ -734,8 +734,8 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1389</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1389</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1461960291" data-shorten="true">18 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 474 -->
@@ -746,7 +746,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/540562_430147157013818_32273000_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -757,9 +757,9 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Amanda Karpinski</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Amanda Karpinski</a></span> ·
                                                                                         <div class="_4q1v">
-                                                                                            <a href="{offer}"></a>
+                                                                                            <a href="{offer}" target="_blank"></a>
                                                                                         </div>
                                                                                         </span>
                                                                                         <div class="_3-8m">
@@ -767,10 +767,10 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1239</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1239</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1462369581" data-shorten="true">21 min</abbr><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_1786887058211954" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="{offer}" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
+                                                                                            <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_1786887058211954" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="{offer}" target="_blank" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
                                                                                             </span>
                                                                                         </div>
                                                                                         <!-- react-empty: 516 -->
@@ -779,7 +779,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}" target="_blank"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -788,7 +788,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                             </div>
                                             <div class="_3-8y _5nz1 clearfix" direction="left">
                                                 <div class="_ohe lfloat">
-                                                    <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                    <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                         <img class="_1ci img" src="img/12651359_1104018629642643_1802809274505192979_n.jpg" alt=""></a>
                                                 </div>
                                                 <div class="">
@@ -799,24 +799,24 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                         <div class="">
                                                             <div>
                                                                 <span>
-                                      <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Cameron Morgan</a></span> ·
-                                                                <div class="_4q1v"><a href="{offer}">Auckland</a></div>
+                                      <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Cameron Morgan</a></span> ·
+                                                                <div class="_4q1v"><a href="{offer}" target="_blank">Auckland</a></div>
                                                                 </span>
                                                                 <div class="_3-8m">
                                                                     <div class="_30o4"><span><span class="_5mdd"><span>Thats an epic idea! How could no one have ever thought of this before?</span></span>
                                                                         </span><span></span>
                                                                     </div>
                                                                 </div>
-                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                    <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>430</span>
-                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1475469874" data-shorten="true">4 hrs</abbr></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                    <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_951897138273285" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="{offer}" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
+                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                    <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>430</span>
+                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" target="_blank" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1475469874" data-shorten="true">4 hrs</abbr></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                    <a ajaxify="/ajax/edits/browser/comment?comment_token=922489761131115_951897138273285" class="uiLinkSubtle" data-hover="tooltip" data-tooltip-content="Show edit history" href="{offer}" target="_blank" rel="dialog" role="button" title="Show edit history"><em class="_4qba" data-intl-translation="Rediģēts" data-intl-trid=""></em></a>
                                                                     </span>
                                                                 </div>
                                                                 <div class="_44ri _2pis">
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="img/c11.jpg" alt=""></a>
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage"><img class=" _1cj img" src="img/c11.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
                                                                             <div class="UFIImageBlockContent _42ef clearfix" direction="right">
@@ -825,15 +825,15 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                                 <div class="">
                                                                                     <div>
-                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Márcio Longo</a></span></span>
+                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Márcio Longo</a></span></span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd _1n4g"><span><span>Yes it's funny. Facebook, Twitter could do it themselves but they are just too stupid. They only care about boring ads...</span></span>
-                                                                                                <span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span><a class="_5v47 fss" href="{offer}" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a></span>
+                                                                                                <span class="_5uzb"><em class="_4qba" data-intl-translation="..." data-intl-trid="">...</em></span><a class="_5v47 fss" href="{offer}" target="_blank" role="button"><em class="_4qba" data-intl-translation="See More" data-intl-trid="">See More</em></a></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>99</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>99</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476559391" data-shorten="true">27 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 619 -->
@@ -844,7 +844,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/18222397_10156169859605550_2186676355225458227_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -854,15 +854,15 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                                 <div class="">
                                                                                     <div>
-                                                                                        <span><a class=" UFICommentActorName" href="{offer}">Beth Zaremba</a>
+                                                                                        <span><a class=" UFICommentActorName" href="{offer}" target="_blank">Beth Zaremba</a>
                                                 </span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>Trading platform, here I come! Best article on the Mirror News!</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>64</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>64</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476569114" data-shorten="true">30 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 663 -->
@@ -873,7 +873,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/26254_100854763287133_3441493_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -884,16 +884,16 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                  <a class=" UFICommentActorName" href="{offer}">Norikazu Kakishita</a> ·
-                                                  <div class="_4q1v"><a href="{offer}"></a></div>
+                                                  <a class=" UFICommentActorName" href="{offer}" target="_blank">Norikazu Kakishita</a> ·
+                                                  <div class="_4q1v"><a href="{offer}" target="_blank"></a></div>
                                                 </span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>Is this available in Japan?</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>98</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1476574753" data-shorten="true">33 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 701 -->
@@ -902,7 +902,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}" target="_blank"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -911,7 +911,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                             </div>
                                             <div class="_3-8y _5nz1 clearfix" direction="left">
                                                 <div class="_ohe lfloat">
-                                                    <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                    <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                         <img class="_1ci img" src="img/16174412_10211484033439027_3968979027246986980_n.jpg" alt=""></a>
                                                 </div>
                                                 <div class="">
@@ -922,8 +922,8 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                         <div class="">
                                                             <div>
                                                                 <span>
-                                      <a class=" UFICommentActorName" href="{offer}">Florian Di Martino</a> ·
-                                      <div class="_4q1v"><a href="{offer}"></a></div>
+                                      <a class=" UFICommentActorName" href="{offer}" target="_blank">Florian Di Martino</a> ·
+                                      <div class="_4q1v"><a href="{offer}" target="_blank"></a></div>
                                     </span>
                                                                 <div class="_3-8m">
                                                                     <div class="_30o4"><span><span class="_5mdd"><span>heh
@@ -932,14 +932,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                         </span><span></span>
                                                                     </div>
                                                                 </div>
-                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                    <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1584</span>
-                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1455566358" data-shorten="true">5  hrs</abbr></a></span>
+                                                                <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                    <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>1584</span>
+                                                                    <span role="presentation" aria-hidden="true"> · </span><span><a class="uiLinkSubtle" href="{offer}" target="_blank" data-ft="{&quot;tn&quot;:&quot;N&quot;}" data-testid="ufi_comment_timestamp"><abbr class="livetimestamp" data-utime="1455566358" data-shorten="true">5  hrs</abbr></a></span>
                                                                 </div>
                                                                 <div class="_44ri _2pis">
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/12669670_10207353042137627_8224718532595991020_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -949,14 +949,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                                 <div class="">
                                                                                     <div>
-                                                                                        <span><a class=" UFICommentActorName" href="{offer}">Ben Plunkett</a></span>
+                                                                                        <span><a class=" UFICommentActorName" href="{offer}" target="_blank">Ben Plunkett</a></span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>Good luck m8! I'm here for four days and works perfect!</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>696</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>696</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456982993" data-shorten="true">35 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 784 -->
@@ -967,7 +967,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/c9.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -978,9 +978,9 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 <div class="">
                                                                                     <div>
                                                                                         <span>
-                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Verônica Aguilera</a></span> ·
+                                                  <span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Verônica Aguilera</a></span> ·
                                                                                         <div class="_4q1v">
-                                                                                            <a href="{offer}"></a>
+                                                                                            <a href="{offer}" target="_blank"></a>
                                                                                         </div>
                                                                                         </span>
                                                                                         <div class="_3-8m">
@@ -988,8 +988,8 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>412</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>412</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456983215" data-shorten="true">36 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 822 -->
@@ -1000,7 +1000,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                     </div>
                                                                     <div class="_3-8y clearfix" direction="left">
                                                                         <div class="_ohe lfloat">
-                                                                            <a href="{offer}" class="img _8o _8s UFIImageBlockImage">
+                                                                            <a href="{offer}" target="_blank" class="img _8o _8s UFIImageBlockImage">
                                                                                 <img class=" _1cj img" src="img/13417709_10156999054495156_89965319140675792_n.jpg" alt=""></a>
                                                                         </div>
                                                                         <div class="">
@@ -1010,14 +1010,14 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                                 </div>
                                                                                 <div class="">
                                                                                     <div>
-                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}">Arun Narayan</a></span></span>
+                                                                                        <span><span class=" UFICommentActorName"><a class=" UFICommentActorName" href="{offer}" target="_blank">Arun Narayan</a></span></span>
                                                                                         <div class="_3-8m">
                                                                                             <div class="_30o4"><span><span class="_5mdd"><span>Thank you guys for this article and thank you Anthony for testing this for us before just publishing the article!</span></span>
                                                                                                 </span><span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
-                                                                                            <a href="{offer}"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>795</span>
+                                                                                        <div class="_2vq9 fsm fwn fcg"><a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Like" data-intl-trid="">Like</em></a><span role="presentation" aria-hidden="true"> · </span>
+                                                                                            <a href="{offer}" target="_blank"><em class="_4qba" data-intl-translation="Reply" data-intl-trid="">Reply</em></a><span role="presentation" aria-hidden="true"> · </span><span><i class="_3-8_ _4iy4 img sp_-J_-HgF_hOz sx_0beb10" alt=""></i>795</span>
                                                                                             <span role="presentation" aria-hidden="true"> · </span><span><abbr class="livetimestamp" data-utime="1456988113" data-shorten="true">36 min</abbr></span>
                                                                                         </div>
                                                                                         <!-- react-empty: 859 -->
@@ -1026,7 +1026,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
+                                                                    <div class="_5yct _3-8y _3-96 _2ph-"><a href="{offer}" target="_blank"><span class=" _50f3 _50f7"><em class="_4qba" data-intl-translation="Show {number of replies} more replies in this thread" data-intl-trid="">Show 10 more replies in this thread</em></span><i alt="" class="img sp_LOJ2j-KswDP sx_1e62d4"></i></a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -1034,7 +1034,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                                 </div>
                                             </div>
                                             <div class="_5o4h">
-                                                <a href="{offer}">
+                                                <a href="{offer}" target="_blank">
                                                     <button class="_1gl3 _4jy0 _4jy3 _517h _51sy _42ft" role="button" type="submit" value="1"><em class="_4qba" data-intl-translation="Load {pagesize} more comments" data-intl-trid="">Load 10 more comments</em></button>
                                                 </a>
                                             </div>
@@ -1043,7 +1043,7 @@ $base_url = 'https://quickblogz.com/rock/and';
                                             <div direction="left" class="clearfix">
                                                 <div class="_ohe lfloat"><i alt="" class="img _8o _8r img sp_Zf93eLkohoS sx_97c3ab"></i></div>
                                                 <div class="">
-                                                    <div class="_42ef _8u"><a href="{offer}">Facebook Comments Plugin</a></div>
+                                                    <div class="_42ef _8u"><a href="{offer}" target="_blank">Facebook Comments Plugin</a></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1053,137 +1053,137 @@ $base_url = 'https://quickblogz.com/rock/and';
                         </div>
                     </div>
                     <div style="position:relative;">
-                        <a id="comments-section-return" name="comments-section-return" style="position:absolute;top:-100px;" href="{offer}"></a>
-                        <a id="comments-section" name="comments-section" style="position:absolute;top:-100px;" href="{offer}"></a>
+                        <a id="comments-section-return" name="comments-section-return" style="position:absolute;top:-100px;" href="{offer}" target="_blank"></a>
+                        <a id="comments-section" name="comments-section" style="position:absolute;top:-100px;" href="{offer}" target="_blank"></a>
                     </div>
                 </div>
                 <aside class="related-column base-layout"></aside></div>
-            <aside class="related-column sidebar"><a href="{offer}"><img src="img/sidebar.png"></a>
+            <aside class="related-column sidebar"><a href="{offer}" target="_blank"><img src="img/sidebar.png"></a>
             </aside></div>
         </article></main><footer><ul id="section-links"><li>
-                <a href="{offer}">News</a>
+                <a href="{offer}" target="_blank">News</a>
             </li>
             <li>
-                <a href="{offer}">Politics</a>
+                <a href="{offer}" target="_blank">Politics</a>
             </li>
             <li>
-                <a href="{offer}">Football</a>
+                <a href="{offer}" target="_blank">Football</a>
             </li>
             <li>
-                <a href="{offer}">Sport</a>
+                <a href="{offer}" target="_blank">Sport</a>
             </li>
             <li>
-                <a href="{offer}">Celebs</a>
+                <a href="{offer}" target="_blank">Celebs</a>
             </li>
             <li>
-                <a href="{offer}">TV &amp; Film</a>
+                <a href="{offer}" target="_blank">TV &amp; Film</a>
             </li>
             <li>
-                <a href="{offer}">Weird News</a>
+                <a href="{offer}" target="_blank">Weird News</a>
             </li>
             <li>
-                <a href="{offer}">Quizzes</a>
+                <a href="{offer}" target="_blank">Quizzes</a>
             </li>
             <li>
-                <a href="{offer}">Tech</a>
+                <a href="{offer}" target="_blank">Tech</a>
             </li>
             <li>
-                <a href="{offer}">Money</a>
+                <a href="{offer}" target="_blank">Money</a>
             </li>
             <li>
-                <a href="{offer}">Travel</a>
+                <a href="{offer}" target="_blank">Travel</a>
             </li>
             <li>
-                <a href="{offer}">Fashion</a>
+                <a href="{offer}" target="_blank">Fashion</a>
             </li>
             <li>
-                <a href="{offer}">Mums</a>
+                <a href="{offer}" target="_blank">Mums</a>
             </li>
             <li>
-                <a href="{offer}">Motoring</a>
+                <a href="{offer}" target="_blank">Motoring</a>
             </li>
         </ul><div class="social-links">
             <h4>Follow us</h4>
             <ul><li>
-                    <a class="" href="{offer}" title="facebook"><img src="img/41282b58cf85ddaf5d28df96ed91de98.png" class="bbc-icon5"></a>
+                    <a class="" href="{offer}" target="_blank" title="facebook"><img src="img/41282b58cf85ddaf5d28df96ed91de98.png" class="bbc-icon5"></a>
                 </li>
                 <li>
-                    <a class="" href="{offer}" title="twitter"><img src="img/circle-twitter-2.png" class="bbc-icon2"></a>
+                    <a class="" href="{offer}" target="_blank" title="twitter"><img src="img/circle-twitter-2.png" class="bbc-icon2"></a>
                 </li>
                 <li>
-                    <a class="" href="{offer}" title="pinterest"><img src="img/pinterest-icon-image-53.png" class="bbc-icon3"></a>
+                    <a class="" href="{offer}" target="_blank" title="pinterest"><img src="img/pinterest-icon-image-53.png" class="bbc-icon3"></a>
                 </li>
                 <li>
-                    <a class="" href="{offer}" title="instagram"><img src="img/images.png" class="bbc-icon3"></a>
+                    <a class="" href="{offer}" target="_blank" title="instagram"><img src="img/images.png" class="bbc-icon3"></a>
                 </li>
             </ul></div>
         <div class="kitemarks">
             <div class="ipso"></div>
-            <a class="trust-project" href="{offer}"></a>
+            <a class="trust-project" href="{offer}" target="_blank"></a>
         </div>
         <ul id="utility-links"><li>
-                <a href="{offer}">BuySell</a>
+                <a href="{offer}" target="_blank">BuySell</a>
             </li>
             <li>
-                <a href="{offer}">Find a job</a>
+                <a href="{offer}" target="_blank">Find a job</a>
             </li>
             <li>
-                <a href="{offer}">InYourArea</a>
+                <a href="{offer}" target="_blank">InYourArea</a>
             </li>
             <li>
-                <a href="{offer}">Psychic</a>
+                <a href="{offer}" target="_blank">Psychic</a>
             </li>
             <li>
-                <a href="{offer}">Find a local business</a>
+                <a href="{offer}" target="_blank">Find a local business</a>
             </li>
             <li>
-                <a href="{offer}">About Us</a>
+                <a href="{offer}" target="_blank">About Us</a>
             </li>
             <li>
-                <a href="{offer}">Contact Us</a>
+                <a href="{offer}" target="_blank">Contact Us</a>
             </li>
             <li>
-                <a href="{offer}">Follow Us</a>
+                <a href="{offer}" target="_blank">Follow Us</a>
             </li>
             <li>
-                <a href="{offer}">Sell Your Story</a>
+                <a href="{offer}" target="_blank">Sell Your Story</a>
             </li>
             <li>
-                <a href="{offer}">How to Complain</a>
+                <a href="{offer}" target="_blank">How to Complain</a>
             </li>
             <li>
-                <a href="{offer}">Corrections &amp; Clarifications</a>
+                <a href="{offer}" target="_blank">Corrections &amp; Clarifications</a>
             </li>
             <li>
-                <a href="{offer}">Google Survey</a>
+                <a href="{offer}" target="_blank">Google Survey</a>
             </li>
             <li>
-                <a href="{offer}">Privacy Statement</a>
+                <a href="{offer}" target="_blank">Privacy Statement</a>
             </li>
             <li>
-                <a href="{offer}">Cookie Policy</a>
+                <a href="{offer}" target="_blank">Cookie Policy</a>
             </li>
             <li>
-                <a href="{offer}">Terms and Conditions</a>
+                <a href="{offer}" target="_blank">Terms and Conditions</a>
             </li>
             <li>
-                <a href="{offer}">Paper Subscription to the Daily Mirror</a>
+                <a href="{offer}" target="_blank">Paper Subscription to the Daily Mirror</a>
             </li>
             <li>
-                <a href="{offer}">Paper Subscription to the Sunday Mirror</a>
+                <a href="{offer}" target="_blank">Paper Subscription to the Sunday Mirror</a>
             </li>
             <li>
-                <a href="{offer}">Irish Mirror</a>
+                <a href="{offer}" target="_blank">Irish Mirror</a>
             </li>
             <li>
-                <a href="{offer}">© 2018</a>
+                <a href="{offer}" target="_blank">© 2018</a>
             </li>
             <li>
         </li></ul></footer><div class="mod-cookiepolicy publication-theme-border">
         <div class="inner">
             <span>This website uses cookies. Using this website means you
         are okay with this but you can find out more and learn how to manage
-        your cookie choices <a class="send-event" href="{offer}">here</a>.</span><a class="close icon send-event" href="{offer}">Close cookie policy overlay</a>
+        your cookie choices <a class="send-event" href="{offer}" target="_blank">here</a>.</span><a class="close icon send-event" href="{offer}" target="_blank">Close cookie policy overlay</a>
         </div>
     </div>
     <div id="bottom-article-message"></div>
